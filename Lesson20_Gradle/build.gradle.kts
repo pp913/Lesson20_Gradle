@@ -27,5 +27,5 @@ dependencies {
 }
 
 tasks.test {
-    useJUnitPlatform()
+     useTestNG()
 }
